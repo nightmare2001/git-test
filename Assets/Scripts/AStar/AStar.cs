@@ -5,6 +5,7 @@ using UnityEngine;
 public class Node
 {
     //testttttt
+    //hotfix tttt
     //��ǰ�ڵ㵽���
     public int gVal;
     //��ǰ�ڵ㵽�յ�
