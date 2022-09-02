@@ -4,13 +4,14 @@ using UnityEngine;
 
 public class Node
 {
-    //µ±Ç°½Úµãµ½Æðµã
+    //testttttt
+    //ï¿½ï¿½Ç°ï¿½Úµãµ½ï¿½ï¿½ï¿½
     public int gVal;
-    //µ±Ç°½Úµãµ½ÖÕµã
+    //ï¿½ï¿½Ç°ï¿½Úµãµ½ï¿½Õµï¿½
     public int hVal;
 
     public int fVal;
-    //µ±Ç°½ÚµãÊÇÓÉÄÄ¸ö½Úµã×ªÒÆ¹ýÀ´µÄ
+    //ï¿½ï¿½Ç°ï¿½Úµï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ä¸ï¿½ï¿½Úµï¿½×ªï¿½Æ¹ï¿½ï¿½ï¿½ï¿½ï¿½
     public (int x,int y) parent;
 
     public Node(int gval,int hval)
