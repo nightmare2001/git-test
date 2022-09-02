@@ -6,6 +6,7 @@ public class Node
 {
     //testttttt
     //master tttt
+    //hotfix tttt
     //��ǰ�ڵ㵽���
     public int gVal;
     //��ǰ�ڵ㵽�յ�
